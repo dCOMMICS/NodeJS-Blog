@@ -17,4 +17,4 @@ npm i nodemon --save-dev (installs all the needed packages i.e the node_modules 
 STEP 3 
 
 setup the .gitignore file.
-setup .env file this has the mongoDB details i.e username, passwords etc.
+setup .env file this has the mongoDB details i.e username, passwords (update password later) etc.
